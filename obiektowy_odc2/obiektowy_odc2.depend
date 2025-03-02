@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\user\documents\github repo\cpp_mz_obiekt\obiektowy_odc2\main.cpp
+	<iostream>
+
+1740952945 source:c:\users\user\documents\github repo\cpp_mz_obiekt\obiektowy_odc2\pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<cstdlib>
+
+1740952221 c:\users\user\documents\github repo\cpp_mz_obiekt\obiektowy_odc2\pytanie.h
+	<iostream>
+
